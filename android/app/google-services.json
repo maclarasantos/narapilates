@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303333338841",
+    "project_id": "nara-pilates",
+    "storage_bucket": "nara-pilates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303333338841:android:7bd7927bb5c0298ffb98c8",
+        "android_client_info": {
+          "package_name": "com.example.narapilates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1nLwFXdChXGoH_YyQOPXxkJW5W5JTp1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
